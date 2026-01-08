@@ -1,6 +1,6 @@
 let operator1 = Number(prompt(`Number One`));
 console.log(operator1);
-let operator = prompt(`Equation`)
+let operator = prompt(`Equation`);
 let operator2 = Number(prompt(`Number Two`));
 console.log(operator2);
 let total;
